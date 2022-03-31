@@ -1,0 +1,17 @@
+C:\Users\nazar\source\repos\Service Reload\Service Reload\bin\Release\Service Reload.exe.config
+C:\Users\nazar\source\repos\Service Reload\Service Reload\bin\Release\Service Reload.exe
+C:\Users\nazar\source\repos\Service Reload\Service Reload\bin\Release\Service Reload.pdb
+C:\Users\nazar\source\repos\Service Reload\Service Reload\bin\Release\System.Diagnostics.EventLog.dll
+C:\Users\nazar\source\repos\Service Reload\Service Reload\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\nazar\source\repos\Service Reload\Service Reload\bin\Release\System.ServiceProcess.ServiceController.dll
+C:\Users\nazar\source\repos\Service Reload\Service Reload\bin\Release\System.Diagnostics.EventLog.xml
+C:\Users\nazar\source\repos\Service Reload\Service Reload\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\nazar\source\repos\Service Reload\Service Reload\bin\Release\System.ServiceProcess.ServiceController.xml
+C:\Users\nazar\source\repos\Service Reload\Service Reload\obj\Release\Service Reload.csproj.AssemblyReference.cache
+C:\Users\nazar\source\repos\Service Reload\Service Reload\obj\Release\Service_Reload.Form1.resources
+C:\Users\nazar\source\repos\Service Reload\Service Reload\obj\Release\Service_Reload.Properties.Resources.resources
+C:\Users\nazar\source\repos\Service Reload\Service Reload\obj\Release\Service Reload.csproj.GenerateResource.cache
+C:\Users\nazar\source\repos\Service Reload\Service Reload\obj\Release\Service Reload.csproj.CoreCompileInputs.cache
+C:\Users\nazar\source\repos\Service Reload\Service Reload\obj\Release\Service Reload.csproj.CopyComplete
+C:\Users\nazar\source\repos\Service Reload\Service Reload\obj\Release\Service Reload.exe
+C:\Users\nazar\source\repos\Service Reload\Service Reload\obj\Release\Service Reload.pdb
